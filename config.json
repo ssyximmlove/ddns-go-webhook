@@ -1,6 +1,0 @@
-{
-  "app" : {
-    "addr" : "0.0.0.0:33966",
-    "endpoint": "https://push.loliconapp.top/v2/api/message/push"
-  }
-}
