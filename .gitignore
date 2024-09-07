@@ -3,3 +3,8 @@
 logs.log
 
 /.idea/
+
+*.exe
+*.log
+
+/Writerside/*
